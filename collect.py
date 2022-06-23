@@ -94,7 +94,17 @@ reporitories = [
     'https://github.com/google/gvisor.git',
     'https://github.com/trekhleb/javascript-algorithms.git',
     'https://github.com/google/googletest.git',
-    'https://github.com/SeleniumHQ/selenium'
+    'https://github.com/SeleniumHQ/selenium',
+    'https://github.com/iaeiou/hugo-theme-hune',
+    'https://github.com/Enegnei/This-Month-In-Bitcoin-Privacy',
+    'https://github.com/MarkBaker/PHPComplex',
+    'https://github.com/karaoke-dev/karaoke',
+    'https://github.com/mangosthree/database',
+    'https://github.com/Heropowerbrine/another-testing',
+    'https://github.com/AlooTheAloo/Bad-Chess-Clone',
+    'https://github.com/seigtm/meov',
+    'https://github.com/ciderapp/Cider',
+    'https://github.com/EFForg/action-center-platform',
 ]
 
 time = datetime.now()
